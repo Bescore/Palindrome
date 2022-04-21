@@ -1,0 +1,10 @@
+.container {
+    color: #f3f3f3;
+	margin: 15% auto;
+	width: 50%;
+    border-radius: 10px;
+    border: 1px ridge black;
+    padding: 20px;
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
